@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=8FPQnO8oblM&index=1&t=1448s
+
+https://www.youtube.com/watch?v=00LLd7qr9sA&index=3&t=2s
+
+https://www.youtube.com/watch?v=BqMIcugsCFc&index=5&t=4s
+
+https://jsoup.org/apidocs/index.html?org/jsoup/select/Selector.html
+
+https://try.jsoup.org/
+
+https://stackoverflow.com/questions/30598871/cannot-resolve-method-findviewbyidint
+
+https://www.youtube.com/watch?v=wZ1RSwIoxt4
+
+https://www.youtube.com/watch?v=YRpQk0mapRM
